@@ -7,3 +7,4 @@ Creating a new branch is quick and simple.
 create branch dev
 nn-ff test1
 nn-ff test2
+merge test
