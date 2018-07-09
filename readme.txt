@@ -4,3 +4,4 @@ git rebase test
 test1
 test2
 test3
+git rebase test2
